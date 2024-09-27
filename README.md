@@ -1,6 +1,6 @@
 # Cosmic Game Testing
 
-Welcome to the **Cosmic Game Testing** repository! This project is dedicated to testing and optimizing games on the new Linux desktop environment, COSMIC.
+Welcome to the **Unofficial Cosmic Game Testing** repository! This project is dedicated to testing and optimizing games on the new Linux desktop environment, COSMIC.
 
 ## Introduction
 
