@@ -21,3 +21,4 @@ We welcome contributions from the community! If you have suggestions, bug report
 | Game Tested | Installed From | GPU Tested | Notes | Optimizing Tips |
 |----------|----------|----------|----------|----------|
 | The Lord of the Rings: Return to Moria | Steam | NVIDIA 3090 | Took extended time to launch | N/A |
+| Rocket League | Heroic | NVIDIA 3090 | N/A | N/A |
