@@ -20,4 +20,4 @@ We welcome contributions from the community! If you have suggestions, bug report
 
 | Game Tested | Installed From | GPU Tested | Notes | Optimizing Tips |
 |----------|----------|----------|----------|----------|
-| Row 1, Col 1 | Row 1, Col 2 | Row 1, Col 3 | Row 1, Col 3 | Row 1, Col 3 |
+| The Lord of the Rings: Return to Moria | Steam | NVIDIA 3090 | Took extended time to launch | N/A |
