@@ -23,6 +23,7 @@ We welcome contributions from the community! If you have suggestions, bug report
 | Works? | Game Tested | Installed From | GPU Tested | Notes | Optimizing Tips |
 |----------|----------|----------|----------|----------|----------|
 | ✅ |Ghostrunner | Steam | NVIDIA 3090 | Tested both Dx11 and DX12. Both had similiar performance | N/A |
+| ✅ | LEGO Star Wars: The Skywalker Saga | Steam | NVIDIA 3090 | N/A | N/A |
 | ✅ | The Lord of the Rings: Return to Moria | Steam | NVIDIA 3090 | Took extended time to launch | N/A |
 | ✅ | Oceanhorn 2: Knights of the Lost Realm | Steam | NVIDIA 3090 | N/A | N/A |
 | ⚠️ | Risk of Rain 2 | Steam | NVIDIA 3090 | Resolution not correct on startup, after changing in menu ran flawlessly | N/A |
