@@ -21,11 +21,11 @@ We welcome contributions from the community! If you have suggestions, bug report
 ## Games Tested
 
 | Game Tested | Installed From | GPU Tested | Notes | Optimizing Tips |
-|----------|----------|----------|----------|----------|
-| Ghostrunner | Steam | NVIDIA 3090 | Tested both Dx11 and DX12. Both had similiar performance | N/A |
-| The Lord of the Rings: Return to Moria | Steam | NVIDIA 3090 | Took extended time to launch | N/A |
-| Oceanhorn 2: Knights of the Lost Realm | Steam | NVIDIA 3090 | N/A | N/A |
-| Risk of Rain 2 | Steam | NVIDIA 3090 | Resolution not correct on startup, after changing in menu ran flawlessly | N/A |
-| Rocket League | Heroic | NVIDIA 3090 | N/A | N/A |
-| SuperTux | Steam | NVIDIA 3090 | N/A | N/A |
-| Warhammer 40,000: Space Marine 2 | Steam | NVIDIA 3090 | N/A | N/A |
+|---------------|---------------|---------------|---------------|---------------|---------------|
+| ✅ |Ghostrunner | Steam | NVIDIA 3090 | Tested both Dx11 and DX12. Both had similiar performance | N/A |
+| ✅ | The Lord of the Rings: Return to Moria | Steam | NVIDIA 3090 | Took extended time to launch | N/A |
+| ✅ | Oceanhorn 2: Knights of the Lost Realm | Steam | NVIDIA 3090 | N/A | N/A |
+| ⚠️ | Risk of Rain 2 | Steam | NVIDIA 3090 | Resolution not correct on startup, after changing in menu ran flawlessly | N/A |
+| ✅ | Rocket League | Heroic | NVIDIA 3090 | N/A | N/A |
+| ✅ | SuperTux | Steam | NVIDIA 3090 | N/A | N/A |
+| ✅ | Warhammer 40,000: Space Marine 2 | Steam | NVIDIA 3090 | N/A | N/A |
