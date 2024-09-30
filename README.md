@@ -22,8 +22,12 @@ We welcome contributions from the community! If you have suggestions, bug report
 
 | Works? | Game Tested | Installed From | GPU Tested | Notes | Optimizing Tips |
 |----------|----------|----------|----------|----------|----------|
-| ✅ |Ghostrunner | Steam | NVIDIA 3090 | Tested both DX11 and DX12. Both had similiar performance | N/A |
-| ⚠️ |Hogwarts Legacy | Steam | NVIDIA 3090 | Followed launch options from protondb | N/A |
+| ⚠️ | Balatro | Steam | AMD RX 7900 XTX | Won't launch fullscreen, can't change to fullscreen at all at least with a triple-monitor setup. | N/A |
+| ✅ | Ghostrunner | Steam | NVIDIA 3090 | Tested both DX11 and DX12. Both had similiar performance | N/A |
+| ✅ | Factorio | Steam | AMD RX 7900 XTX | N/A | N/A |
+| ✅ | Halo Infinite | Steam | AMD RX 7900 XTX | N/A | N/A |
+| ✅ | Halo: The Master Chief Collection | Steam | AMD RX 7900 XTX | If you have multiple monitors, it may look like it's on the right screen but you can't select anything. The best way to fix this is to plug in a controller and navigate to the settings and set it to use the correct monitor. | N/A |
+| ⚠️ | Hogwarts Legacy | Steam | NVIDIA 3090 | Followed launch options from protondb | N/A |
 | ✅ | LEGO Star Wars: The Skywalker Saga | Steam | NVIDIA 3090 | N/A | N/A |
 | ✅ | The Lord of the Rings: Return to Moria | Steam | NVIDIA 3090 | Took extended time to launch | N/A |
 | ✅ | Oceanhorn 2: Knights of the Lost Realm | Steam | NVIDIA 3090 | N/A | N/A |
@@ -32,6 +36,3 @@ We welcome contributions from the community! If you have suggestions, bug report
 | ✅ | Rocket League | Heroic | NVIDIA 3090 | N/A | N/A |
 | ✅ | SuperTux | Steam | NVIDIA 3090 | N/A | N/A |
 | ✅ | Warhammer 40,000: Space Marine 2 | Steam | NVIDIA 3090 | N/A | N/A |
-| ✅ | Halo: The Master Chief Collection | Steam | AMD RX 7900 XTX | If you have multiple monitors, it may look like it's on the right screen but you can't select anything. The best way to fix this is to plug in a controller and navigate to the settings and set it to use the correct monitor. | N/A |
-| ⚠️ | Balatro | Steam | AMD RX 7900 XTX | Won't launch fullscreen, can't change to fullscreen at all at least with a triple-monitor setup. | N/A |
-| ✅ | Halo Infinite | Steam | AMD RX 7900 XTX | N/A | N/A |
