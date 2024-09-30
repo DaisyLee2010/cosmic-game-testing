@@ -22,6 +22,7 @@ We welcome contributions from the community! If you have suggestions, bug report
 
 **Legend**
 | Icon | Meaning |
+| - | ----------------------------------------------- |
 | ✅ | Works as intended with little to no assistance | 
 | ⚠️ | Works but may need launch option configurations, or settings changes to work properly |
 | ❌ | Does not work |
