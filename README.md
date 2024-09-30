@@ -32,3 +32,6 @@ We welcome contributions from the community! If you have suggestions, bug report
 | ✅ | Rocket League | Heroic | NVIDIA 3090 | N/A | N/A |
 | ✅ | SuperTux | Steam | NVIDIA 3090 | N/A | N/A |
 | ✅ | Warhammer 40,000: Space Marine 2 | Steam | NVIDIA 3090 | N/A | N/A |
+| ✅ | Halo: The Master Chief Collection | Steam | AMD RX 7900 XTX | If you have multiple monitors, it may look like it's on the right screen but you can't select anything. The best way to fix this is to plug in a controller and navigate to the settings and set it to use the correct monitor. | N/A |
+| ⚠️ | Balatro | Steam | AMD RX 7900 XTX | Won't launch fullscreen, can't change to fullscreen at all at least with a triple-monitor setup. | N/A |
+| ✅ | Halo Infinite | Steam | AMD RX 7900 XTX | N/A | N/A |
